@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+![WhatsApp Image 2023-07-08 at 12 26 31 PM](https://github.com/MuhammadAligithub7/Youtube-Ui-Clone/assets/90595554/aae4f025-b7ad-475a-9635-d48f2ff96177)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
